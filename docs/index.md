@@ -5,6 +5,9 @@ hero:
   name: Wenjie Zheng Blog
   text: 欢迎来到我的博客
   tagline: 分享技术见解与生活感悟
+  image:
+    src: https://avatars.githubusercontent.com/u/62193477?v=4
+    alt: Wenjie Zheng
   actions:
     - theme: brand
       text: 浏览博客
