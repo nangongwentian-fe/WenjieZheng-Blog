@@ -13,20 +13,31 @@ export default {
 
     sidebar: [
       {
-        text: 'AI编程',
+        text: '博客',
         items: [
-          { text: 'Claude Code', link: '/ai-programming/claude-code' },
-          { text: 'Codex', link: '/ai-programming/codex' },
-          { text: 'Trae', link: '/ai-programming/trae' },
-          { text: 'Qoder', link: '/ai-programming/qoder' },
-          { text: 'Cursor', link: '/ai-programming/cursor' }
-        ]
-      },
-      {
-        text: '前端开发',
-        items: [
-          { text: 'Vue', link: '/frontend/vue' },
-          { text: 'React', link: '/frontend/react' }
+          {
+            text: 'AI编程',
+            items: [
+              {
+                text: 'Claude Code',
+                link: '/blog/ai-programming/claude-code/',
+                items: [
+                  { text: 'Z CF', link: '/blog/ai-programming/claude-code/z-cf/' }
+                ]
+              },
+              { text: 'Codex', link: '/blog/ai-programming/codex/' },
+              { text: 'Trae', link: '/blog/ai-programming/trae/' },
+              { text: 'Qoder', link: '/blog/ai-programming/qoder/' },
+              { text: 'Cursor', link: '/blog/ai-programming/cursor/' }
+            ]
+          },
+          {
+            text: '前端开发',
+            items: [
+              { text: 'Vue', link: '/blog/frontend/vue' },
+              { text: 'React', link: '/blog/frontend/react' }
+            ]
+          }
         ]
       }
     ],
