@@ -34,8 +34,8 @@ export default {
           {
             text: '前端开发',
             items: [
-              { text: 'Vue', link: '/blog/frontend/vue' },
-              { text: 'React', link: '/blog/frontend/react' }
+              { text: 'Vue', link: '/blog/frontend/vue/' },
+              { text: 'React', link: '/blog/frontend/react/' }
             ]
           }
         ]
