@@ -22,4 +22,4 @@
 
 ---
 
-> 这里是 Wenjie 的个人博客，记录技术成长之路。欢迎通过 [GitHub](https://github.com/wenjiezheng) 与我交流！
+> 这里是 Wenjie 的个人博客，记录技术成长之路。欢迎通过 [GitHub](https://github.com/nangongwentian-fe) 与我交流！

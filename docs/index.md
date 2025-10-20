@@ -14,7 +14,7 @@ hero:
       link: /blog
     - theme: alt
       text: GitHub
-      link: https://github.com/wenjiezheng
+      link: https://github.com/nangongwentian-fe
 
 features:
   - icon: 💻

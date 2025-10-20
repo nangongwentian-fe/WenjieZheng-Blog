@@ -51,7 +51,7 @@ Z CF 在 Claude Code 的基础上，提供了一系列增强功能，帮助开�
 ## 相关资源
 
 - [官方文档](https://zcf.dev/docs)
-- [示例项目](https://github.com/zcf/examples)
+- [示例项目](https://github.com/nangongwentian-fe/examples)
 - [社区论坛](https://community.zcf.dev)
 - [更新日志](./changelog.md)
 
