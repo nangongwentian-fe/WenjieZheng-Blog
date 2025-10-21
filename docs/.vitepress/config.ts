@@ -19,20 +19,29 @@ export default {
             text: 'AI编程',
             items: [
               {
-                text: 'Claude Code',
-                link: '/blog/ai-programming/claude-code/',
+                text: 'AI编程产品',
+                link: '/blog/ai-programming/ai-products/',
                 items: [
-                  { text: 'Z CF', link: '/blog/ai-programming/claude-code/z-cf/' },
-                  { text: 'Spec-Kit', link: '/blog/ai-programming/claude-code/spec-kit/' },
-                  { text: 'OpenSpec', link: '/blog/ai-programming/claude-code/openspec/' },
-                  { text: 'BMad-Method', link: '/blog/ai-programming/claude-code/bmad-method/' }
+                  { text: 'Claude Code', link: '/blog/ai-programming/ai-products/claude-code/' },
+                  { text: 'Cursor', link: '/blog/ai-programming/ai-products/cursor/' },
+                  { text: 'Kiro', link: '/blog/ai-programming/ai-products/kiro/' },
+                  { text: 'Augment Code', link: '/blog/ai-programming/ai-products/augment-code/' },
+                  { text: 'Codex', link: '/blog/ai-programming/ai-products/codex/' },
+                  { text: 'Factory Droid', link: '/blog/ai-programming/ai-products/factory-droid/' },
+                  { text: 'Trae', link: '/blog/ai-programming/ai-products/trae/' },
+                  { text: 'Qoder', link: '/blog/ai-programming/ai-products/qoder/' }
                 ]
               },
-              { text: 'Factory Droid', link: '/blog/ai-programming/factory-droid/' },
-              { text: 'Codex', link: '/blog/ai-programming/codex/' },
-              { text: 'Trae', link: '/blog/ai-programming/trae/' },
-              { text: 'Qoder', link: '/blog/ai-programming/qoder/' },
-              { text: 'Cursor', link: '/blog/ai-programming/cursor/' }
+              {
+                text: 'AI编程工具或框架',
+                link: '/blog/ai-programming/ai-tools-frameworks/',
+                items: [
+                  { text: 'Z CF', link: '/blog/ai-programming/ai-tools-frameworks/z-cf/' },
+                  { text: 'Spec-Kit', link: '/blog/ai-programming/ai-tools-frameworks/spec-kit/' },
+                  { text: 'OpenSpec', link: '/blog/ai-programming/ai-tools-frameworks/openspec/' },
+                  { text: 'BMad-Method', link: '/blog/ai-programming/ai-tools-frameworks/bmad-method/' }
+                ]
+              }
             ]
           },
           {
