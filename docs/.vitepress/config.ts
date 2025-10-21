@@ -45,6 +45,20 @@ export default {
             ]
           },
           {
+            text: 'Agent开发',
+            items: [
+              {
+                text: 'LangChain',
+                link: '/blog/agent-development/langchain/',
+                items: [
+                  { text: 'LangGraph', link: '/blog/agent-development/langchain/langgraph/' },
+                  { text: 'LangSmith', link: '/blog/agent-development/langchain/langsmith/' }
+                ]
+              },
+              { text: 'AgentScope', link: '/blog/agent-development/agentscope/' }
+            ]
+          },
+          {
             text: '前端3D开发',
             items: [
               { text: 'Three.js', link: '/blog/frontend-3d/threejs/' },
