@@ -1,25 +1,47 @@
-# 博客
+# 博客文章索引
 
-欢迎来到我的博客！这里主要分享以下内容：
+> 探索最新技术趋势，分享编程经验和见解
 
-## 博客分类
+## AI 编程
 
-### 💻 技术分享
-前端开发、后端技术、编程技巧和最佳实践
+### AI 编程产品
+- [Claude Code](/blog/ai-programming/ai-products/claude-code/)
+- [Cursor](/blog/ai-programming/ai-products/cursor/)
+- [Kiro](/blog/ai-programming/ai-products/kiro/)
+- [Augment Code](/blog/ai-programming/ai-products/augment-code/)
+- [Codex](/blog/ai-programming/ai-products/codex/)
+- [Factory Droid](/blog/ai-programming/ai-products/factory-droid/)
+- [Trae](/blog/ai-programming/ai-products/trae/)
+- [Qoder](/blog/ai-programming/ai-products/qoder/)
 
-### 🌱 个人成长
-学习心得、职业发展和生活感悟
+### AI 编程工具和框架
+- [Z-CF](/blog/ai-programming/ai-tools-frameworks/z-cf/)
+- [Spec Kit](/blog/ai-programming/ai-tools-frameworks/spec-kit/)
+- [OpenSpec](/blog/ai-programming/ai-tools-frameworks/openspec/)
+- [BMad-Method](/blog/ai-programming/ai-tools-frameworks/bmad-method/)
 
-### 🚀 项目实践
-实际项目开发中的经验总结和踩坑记录
+## Agent 开发
 
-### 📚 阅读笔记
-技术书籍、文章的学习笔记和思考
+### LangChain
+- [LangGraph](/blog/agent-development/langchain/langgraph/)
+- [LangSmith](/blog/agent-development/langchain/langsmith/)
 
-## 最新文章
+### AgentScope
+- [AgentScope](/blog/agent-development/agentscope/)
 
-*即将发布更多内容...*
+## 前端 3D
+
+- [Three.js](/blog/frontend-3d/threejs/)
+- [Babylon.js](/blog/frontend-3d/babylonjs/)
+- [MapboxGL](/blog/frontend-3d/mapboxgl/)
+- [Orillusion](/blog/frontend-3d/orillusion/)
+- [WebGL](/blog/frontend-3d/webgl/)
+- [WebGPU](/blog/frontend-3d/webgpu/)
+- [Cesium.js](/blog/frontend-3d/cesiumjs/)
+
+## 前端开发
+
+- [Vue](/blog/frontend/vue/)
+- [React](/blog/frontend/react/)
 
 ---
-
-> 这里是 Wenjie 的个人博客，记录技术成长之路。欢迎通过 [GitHub](https://github.com/nangongwentian-fe) 与我交流！
