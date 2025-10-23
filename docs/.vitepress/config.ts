@@ -41,6 +41,10 @@ export default {
                   { text: 'OpenSpec', link: '/blog/ai-programming/ai-tools-frameworks/openspec/' },
                   { text: 'BMad-Method', link: '/blog/ai-programming/ai-tools-frameworks/bmad-method/' }
                 ]
+              },
+              {
+                text: 'MCP',
+                link: '/blog/ai-programming/mcp/'
               }
             ]
           },
@@ -75,6 +79,21 @@ export default {
             items: [
               { text: 'Vue', link: '/blog/frontend/vue/' },
               { text: 'React', link: '/blog/frontend/react/' }
+            ]
+          },
+          {
+            text: '后端开发',
+            items: [
+              {
+                text: '数据库',
+                link: '/blog/backend/database/',
+                items: [
+                  { text: 'PostgreSQL', link: '/blog/backend/database/postgresql/' },
+                  { text: 'MySQL', link: '/blog/backend/database/mysql/' }
+                ]
+              },
+              { text: 'Java', link: '/blog/backend/java/' },
+              { text: 'Python', link: '/blog/backend/python/' }
             ]
           }
         ]
